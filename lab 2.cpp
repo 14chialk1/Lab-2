@@ -24,4 +24,3 @@ static_cast<double>() essentially turns the int datatype of variable b into a do
 
 */
  
-std::
